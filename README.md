@@ -26,7 +26,7 @@
 
 - **.NET Core SDK 8**
 - **SQL Server** (میتونید از نسخه‌های SQL Server Express هم استفاده کنید)
-- **Visual Studio** (برای توسعه و اجرای پروژه) یا **VS Code**
+- **Visual Studio 2022** (برای توسعه و اجرای پروژه) 
 
 ## نصب و راه‌اندازی
 
