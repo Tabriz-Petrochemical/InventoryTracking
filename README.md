@@ -37,4 +37,4 @@
 برای شروع، پروژه را از GitHub کلون کنید:
 
 ```bash
-git clone https://github.com/username/inventory-tracking-system.git
+git clone https://github.com/Tabriz-Petrochemical/InventoryTracking.git
